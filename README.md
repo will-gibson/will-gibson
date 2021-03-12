@@ -1,5 +1,5 @@
 - Hi, I’m @will-gibson
-- I’m interested in bringing ideas to life within the digital world.
+- I love bringing ideas to life within the digital world.
 - I’m currently learning back-end development for APIs within web applications.
 - I’m looking to collaborate on any projects involving UX/UI design or front-end development for web applications.
-- You can view my portfolio at [willgib.com] or contact me directly at hello@willgib.com
+- You can view my portfolio [here](willgib.com) or contact me directly at hello@willgib.com
