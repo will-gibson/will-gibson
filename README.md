@@ -1,10 +1,5 @@
 - Hi, I’m @will-gibson
-- I’m interested in ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- How to reach me ...
-
-<!---
-will-gibson/will-gibson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m interested in bringing ideas to life within the digital world.
+- I’m currently learning back-end development for APIs within web applications.
+- I’m looking to collaborate on any projects involving UX/UI design or front-end development for web applications.
+- You can view my portfolio at willgib.com or contact me directly at hello@willgib.com
